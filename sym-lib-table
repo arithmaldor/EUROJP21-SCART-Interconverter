@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name EUROSCART_2_JP21-rescue)(type Legacy)(uri ${KIPRJMOD}/EUROSCART_2_JP21-rescue.lib)(options "")(descr ""))
+)
