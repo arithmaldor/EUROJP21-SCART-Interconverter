@@ -11,17 +11,15 @@ MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
 PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
 conditions
 
-# SCART to JP21
+# SCART to JP21 Bidirectional Converter
 
 The goal is to make it easy to adapt a JP21 console cable to the EUROSCART standard, or vice versa. This adapter is bidirectional with all
 individual grounds connected to the corresponding pins. Shield ground is connected to the ground pour.
 
 # Parts
 
-SCART Connector: Right angle SCART connector, available from Console5.com, retrogamingcables.co.uk, and several other places.
+Female SCART Connector: Right angle SCART connector, available from Console5.com, retrogamingcables.co.uk, and several other places.
+Male SCART Connector: Harvested from a connector (discard plastic hood), available from Console5.com and various other places.
 
-# Version 0.1
-This board is untested
-
-# OSHPark
-https://oshpark.com/shared_projects/VUhWjlan
+# Version 1.0
+Tested. Versions with male EURO and female JP21, as well as the reverse are available. The Panel release is a panel (<100x100mm) with 2 of each variant.
