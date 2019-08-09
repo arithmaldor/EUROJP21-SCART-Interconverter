@@ -60,11 +60,7 @@ Text GLabel 6400 4325 2    60   Input ~ 0
 L_IN
 Text GLabel 4225 2525 2    60   Input ~ 0
 S_IN
-Text GLabel 6400 3525 2    60   Input ~ 0
-S_IN
 Text GLabel 3025 2625 0    60   Input ~ 0
-S_OUT
-Text GLabel 5200 3625 0    60   Input ~ 0
 S_OUT
 Text GLabel 3025 3025 0    60   Input ~ 0
 RED
@@ -116,4 +112,8 @@ B_GND
 NoConn ~ 4225 3125
 NoConn ~ 4225 3325
 NoConn ~ 4225 3525
+Text GLabel 5200 3625 0    60   Input ~ 0
+S_IN
+Text GLabel 6400 3525 2    60   Input ~ 0
+S_OUT
 $EndSCHEMATC
