@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name EUROSCART_2_JP21-rescue)(type Legacy)(uri ${KIPRJMOD}/EUROSCART_2_JP21-rescue.lib)(options "")(descr ""))
+  (lib (name JP21F_to_EUROM-rescue)(type Legacy)(uri ${KIPRJMOD}/JP21F_to_EUROM-rescue.lib)(options "")(descr ""))
 )

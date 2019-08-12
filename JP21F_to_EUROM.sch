@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:EUROSCART_2_JP21-cache
+LIBS:JP21F_to_EUROM-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L EUROSCART_2_JP21-rescue:SCART-F J1
+L JP21F_to_EUROM-rescue:SCART-F-EUROSCART_2_JP21-rescue J1
 U 1 1 5B540E82
 P 3625 3375
 F 0 "J1" H 3625 4575 50  0000 C CNN
@@ -26,7 +26,7 @@ F 3 "" H 3625 3375 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L EUROSCART_2_JP21-rescue:SCART-F J2
+L JP21F_to_EUROM-rescue:SCART-F-EUROSCART_2_JP21-rescue J2
 U 1 1 5B540EA9
 P 5800 3375
 F 0 "J2" H 5800 4575 50  0000 C CNN
@@ -39,7 +39,7 @@ $EndComp
 Text GLabel 3025 4425 0    60   Input ~ 0
 RT_OUT
 Text GLabel 5200 4025 0    60   Input ~ 0
-RT_OUT
+RT_IN
 Text GLabel 4225 4125 2    60   Input ~ 0
 A_GND
 Text GLabel 5200 4225 0    60   Input ~ 0
@@ -49,15 +49,15 @@ A_GND
 Text GLabel 4225 4325 2    60   Input ~ 0
 RT_IN
 Text GLabel 6400 3925 2    60   Input ~ 0
-RT_IN
+RT_OUT
 Text GLabel 3025 4225 0    60   Input ~ 0
 L_OUT
 Text GLabel 5200 4425 0    60   Input ~ 0
-L_OUT
+L_IN
 Text GLabel 4225 3925 2    60   Input ~ 0
 L_IN
 Text GLabel 6400 4325 2    60   Input ~ 0
-L_IN
+L_OUT
 Text GLabel 4225 2525 2    60   Input ~ 0
 S_IN
 Text GLabel 3025 2625 0    60   Input ~ 0
